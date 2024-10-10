@@ -28,9 +28,19 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 ### 🌱 I’m currently learning/Intended to learn:
 ![RESTful API](https://img.shields.io/badge/RESTful_API-5C5C5C?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FFBF00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F50?style=for-the-badge)
 
 - RESTful API
 - Webpack
+- TypeScript
+- Next.js
+- Django
+- Artificial Intelligence
+- Machine Learning
 
 ### 🔭 I’m currently working on:
 - [Mega Blog Project](https://github.com/TusharGupta-Developer/React.js/tree/main/11reduxToolkitTodo/reduxToolkitTodo)
