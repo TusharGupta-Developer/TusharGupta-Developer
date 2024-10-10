@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tushar Gupta!
 
-I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly applications. I specialize in front-end development but have experience working across the stack, focusing on **production-grade level code**. I love contributing to open-source projects and learning new technologies to keep up with the ever-evolving tech world.
+I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly applications. I specialize in front-end development but have experience working across the stack, working on **Production-Grade Level Code**. I love contributing to open-source projects and learning new technologies to keep up with the ever-evolving tech world.
 
 ### 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -11,7 +11,6 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-ECF2FF?style=for-the-badge&logo=react&logoColor=black) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -22,9 +21,9 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D00000?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🌱 I’m currently learning/Intended to learn:
 ![RESTful API](https://img.shields.io/badge/RESTful_API-5C5C5C?style=for-the-badge)
