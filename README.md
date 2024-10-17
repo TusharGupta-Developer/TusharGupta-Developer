@@ -44,8 +44,13 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 - 
 
 ### 🏆 Hacktoberfest Badges:
-[![Register Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp) 
-[![Level Badge](https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp)](https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp)
+<a href="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" target="_blank">
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100" alt="Register Badge" />
+</a>
+<a href="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" target="_blank">
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="100" alt="Level Badge" />
+</a>
+
 
 ### 🔭 I’m currently working on:
 - [Mega Blog Project](https://github.com/TusharGupta-Developer/React.js/tree/main/11reduxToolkitTodo/reduxToolkitTodo)
