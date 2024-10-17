@@ -44,11 +44,7 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 - 
 
 ### 🏆 Hacktoberfest Badges:
-#### Register Badge
-![Hacktoberfest Register Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
-
-#### Level Badge
-![Hacktoberfest Level Badge](https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp)
+![Hacktoberfest Register Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp) ![Hacktoberfest Level Badge](https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp)
 
 
 ### 🔭 I’m currently working on:
