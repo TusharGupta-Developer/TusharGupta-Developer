@@ -41,9 +41,10 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 - Django
 - Artificial Intelligence
 - Machine Learning
-- 
 
-### 🌟 My Hacktoberfest 2024 Achievements
+<p align="center">
+  ### 🌟 My Hacktoberfest 2024 Achievements
+</p>
 
 <p align="center">
   <a href="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" target="_blank">
