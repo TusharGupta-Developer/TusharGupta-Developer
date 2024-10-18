@@ -9,6 +9,9 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 <a href="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="200" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
+<a href="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" target="_blank">
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="200" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
+</a>
 
 ### 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
