@@ -3,9 +3,6 @@
 I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly applications. I specialize in front-end development but have experience working across the stack, working on **Production-Grade Level Code**. I love contributing to open-source projects and learning new technologies to keep up with the ever-evolving tech world.
 
 ### 🏆 My Hacktoberfest 2024 Achievements:
-<a href="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="200" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
-</a>
 <a href="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="200" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
