@@ -4,20 +4,20 @@ I'm a **Full-Stack Developer** passionate about creating efficient, scalable, an
 
 ### 🏆 My Hacktoberfest 2024 Achievements:
 <a href="" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="170" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
 
 <a href="" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="170" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
 <a href="" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="170" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
 <a href="" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="170" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
 <a href="" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="170" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
 
 ### 🛠️ Tech Stack:
