@@ -10,17 +10,10 @@ Alongside **1+ year of React.js, CSS3, and scalable web application experience**
 
 I love contributing to the **open-source community**, continuously **learning new technologies**, and **adapting quickly** to the ever-evolving **tech world**.  
 
+---
 
 ### 🏆 Open Source Achievements (Hacktoberfest)  
 
-- 🎉 **Hacktoberfest 2024 – Achieved Level 4**  
-- ✅ Contributed to multiple **open-source repositories**  
-- 🔥 Improved features and fixed bugs  
-- 🌍 Active participant in the **open-source community**  
-
----
-
-💡 *This section will be updated with future Hacktoberfest and open-source milestones.*  
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1rztplt108520cm6mobl4m7v" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
@@ -37,6 +30,20 @@ I love contributing to the **open-source community**, continuously **learning ne
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm31nxp7o50580clgb2ycbyax" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
+
+### 🏆 Open Source Achievements (Hacktoberfest)  
+
+![Hacktoberfest Level 4](https://img.shields.io/badge/Hacktoberfest-Level%204-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+- 🎉 **Hacktoberfest 2024 – Achieved Level 4**  
+- ✅ Contributed to multiple **open-source repositories**  
+- 🔥 Improved features and fixed bugs  
+- 🌍 Active participant in the **open-source community**  
+
+---
+
+💡 *This section will be updated with future Hacktoberfest and open-source milestones.*  
+
 
 ### 🛠️ Tech Stack
 
