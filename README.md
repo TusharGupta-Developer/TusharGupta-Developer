@@ -31,8 +31,6 @@ I love contributing to the **open-source community**, continuously **learning ne
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
 </a>
 
-### 🏆 Open Source Achievements (Hacktoberfest)  
-
 ![Hacktoberfest Level 4](https://img.shields.io/badge/Hacktoberfest-Level%204-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 - 🎉 **Hacktoberfest 2024 – Achieved Level 4**  
@@ -40,10 +38,9 @@ I love contributing to the **open-source community**, continuously **learning ne
 - 🔥 Improved features and fixed bugs  
 - 🌍 Active participant in the **open-source community**  
 
----
-
 💡 *This section will be updated with future Hacktoberfest and open-source milestones.*  
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -56,7 +53,7 @@ I love contributing to the **open-source community**, continuously **learning ne
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=javascript&logoColor=white)
-
+--
 #### 🎨 UI / Styling
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Flexbox](https://img.shields.io/badge/Flexbox-FF6F00?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,7 +63,7 @@ I love contributing to the **open-source community**, continuously **learning ne
 ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Best%20Practices-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=react&logoColor=white)
-
+--
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -78,14 +75,13 @@ I love contributing to the **open-source community**, continuously **learning ne
 ![EmailJS](https://img.shields.io/badge/EmailJS-FF5C83?style=for-the-badge&logo=email&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+--
 #### ➕ Additional
 ![API Integration](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Performance Optimization](https://img.shields.io/badge/Web%20Performance%20Optimization-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7952B3?style=for-the-badge&logo=java&logoColor=white)
 ![SEO Basics](https://img.shields.io/badge/SEO-Basics-36A97E?style=for-the-badge&logo=google&logoColor=white)
-
-
+--
 ### 🔧 Backend Basics (I understand the basic principles of working with the following):
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -94,7 +90,7 @@ I love contributing to the **open-source community**, continuously **learning ne
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D00000?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+--
 ### 🌱 I’m currently learning/Intended to learn:
 ![RESTful API](https://img.shields.io/badge/RESTful_API-5C5C5C?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
