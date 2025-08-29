@@ -10,6 +10,7 @@ Alongside **1+ year of React.js, CSS3, and scalable web application experience**
 
 I love contributing to the **open-source community**, continuously **learning new technologies**, and **adapting quickly** to the ever-evolving **tech world**.  
 
+
 ### 🏆 My Hacktoberfest 2024 Achievements:
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1rztplt108520cm6mobl4m7v" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="150" alt="Non-copyable Image" oncontextmenu="return false;" draggable="false" />
