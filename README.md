@@ -109,7 +109,7 @@ I love contributing to the **open-source community**, continuously **learning ne
 - Machine Learning
 
 ### 🔭 I’m currently working on:
-- [Mega Blog Project](https://github.com/TusharGupta-Developer/React.js/tree/main/11reduxToolkitTodo/reduxToolkitTodo)
+- [AI Trip Planner]([https://github.com/TusharGupta-Developer/React.js/tree/main/11reduxToolkitTodo/reduxToolkitTodo](https://github.com/TusharGupta-Developer/AI-Powered-Trip-Planner))
 
 ### 👯 I’m looking to collaborate on:
 - Open-source projects related to web development.
