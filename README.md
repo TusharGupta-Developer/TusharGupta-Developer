@@ -1,6 +1,14 @@
-## Hi there 👋 I'm Tushar Gupta!
+## Hi there 👋 I'm Tushar Gupta!  
 
-I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly applications. I specialize in front-end development but have experience working across the stack, working on **Production-Grade Level Code**. I love contributing to open-source projects and learning new technologies to keep up with the ever-evolving tech world.
+# 🚀 Full-Stack Developer | Creative Frontend Specialist  
+
+I’m a **Full-Stack Developer** passionate about building **efficient**, **scalable**, and **user-friendly applications**, with a strong focus on **frontend development**.  
+
+Alongside **1+ year of React.js, CSS3, and scalable web application experience**, I leverage **Firebase** and **Appwrite** for backend services like **authentication, database management, file storage, and API integration**, delivering **production-grade code** that enhances **performance** and **usability**.  
+
+💡 Skilled in **API integration**, **UI/UX optimization**, **debugging**, and **open-source contributions**, I’ve successfully delivered projects that **reduced development time by up to 90%** and **improved user experience by 50%**.  
+
+I love contributing to the **open-source community**, continuously **learning new technologies**, and **adapting quickly** to the ever-evolving **tech world**.  
 
 ### 🏆 My Hacktoberfest 2024 Achievements:
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1rztplt108520cm6mobl4m7v" target="_blank">
