@@ -47,75 +47,98 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ### 🛠️ Tech Stack  
 
-#### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=javascript&logoColor=white)  
+#### 🌐 Frontend
+<span>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />&nbsp;
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />&nbsp;
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API" />&nbsp;
+<img src="https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Debugging" />
+</span>
 
-#### 🎨 UI / Styling  
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  
-![Flexbox](https://img.shields.io/badge/Flexbox-FF6F00?style=for-the-badge&logo=css3&logoColor=white)  
-![Grid](https://img.shields.io/badge/CSS%20Grid-2965f1?style=for-the-badge&logo=css3&logoColor=white)  
-![Animations](https://img.shields.io/badge/Animations-FF4088?style=for-the-badge&logo=framer&logoColor=white)  
-![Cross-Browser](https://img.shields.io/badge/Cross--Browser-5A29E4?style=for-the-badge&logo=googlechrome&logoColor=white)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Best%20Practices-FF61F6?style=for-the-badge&logo=figma&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=react&logoColor=white)  
+#### 🎨 UI / Styling
+<span>
+<img src="https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design" />&nbsp;
+<img src="https://img.shields.io/badge/Flexbox-FF6F00?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox" />&nbsp;
+<img src="https://img.shields.io/badge/CSS%20Grid-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="Grid" />&nbsp;
+<img src="https://img.shields.io/badge/Animations-FF4088?style=for-the-badge&logo=framer&logoColor=white" alt="Animations" />&nbsp;
+<img src="https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=react&logoColor=white" alt="ShadCN/UI" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;
+<img src="https://img.shields.io/badge/Cross--Browser-5A29E4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cross-Browser" />&nbsp;
+<img src="https://img.shields.io/badge/UI%2FUX%20Best%20Practices-FF61F6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />&nbsp;
+</span>
 
-#### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-ECF2FF?style=for-the-badge&logo=reacthookform&logoColor=black)  
-![EmailJS](https://img.shields.io/badge/EmailJS-FF5C83?style=for-the-badge&logo=email&logoColor=white)  
-![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+#### ⚙️ Tools & Platforms
+<span>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />&nbsp;
+<img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;
+<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
+<img src="https://img.shields.io/badge/React_Hook_Form-ECF2FF?style=for-the-badge&logo=reacthookform&logoColor=black" alt="React Hook Form" />&nbsp;
+<img src="https://img.shields.io/badge/EmailJS-FF5C83?style=for-the-badge&logo=email&logoColor=white" alt="EmailJS" />&nbsp;
+</span>
+ 
+#### ➕ Additional
+<span>
+<img src="https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration" />&nbsp;
+<img src="https://img.shields.io/badge/Web%20Performance%20Optimization-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Performance Optimization" />&nbsp;
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-7952B3?style=for-the-badge&logo=java&logoColor=white" alt="OOP" />&nbsp;
+<img src="https://img.shields.io/badge/SEO-Basics-36A97E?style=for-the-badge&logo=google&logoColor=white" alt="SEO Basics" />
+</span>
 
-#### ➕ Additional  
-![API Integration](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Performance Optimization](https://img.shields.io/badge/Web%20Performance%20Optimization-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white)  
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7952B3?style=for-the-badge&logo=java&logoColor=white)  
-![SEO Basics](https://img.shields.io/badge/SEO-Basics-36A97E?style=for-the-badge&logo=google&logoColor=white)  
+#### 🔧 Familiar with Backend 
+<span>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
+<img src="https://img.shields.io/badge/Java-D00000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</span>
+  
 
-#### 🔧 Backend Basics  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-D00000?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-#### 🌱 Currently Learning  
-![RESTful API](https://img.shields.io/badge/RESTful_API-5C5C5C?style=for-the-badge)  
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![AI](https://img.shields.io/badge/AI-FFBF00?style=for-the-badge)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F50?style=for-the-badge)  
+#### 🌟 Skills in Progress  
+<span>
+<img src="https://img.shields.io/badge/RESTful_API-5C5C5C?style=for-the-badge" alt="RESTful API" />&nbsp;
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;
+<img src="https://img.shields.io/badge/AI-FFBF00?style=for-the-badge" alt="AI" />&nbsp;
+<img src="https://img.shields.io/badge/Machine_Learning-FF7F50?style=for-the-badge" alt="Machine Learning" />
+</span>
 
 ---
 
-### 🔭 I’m currently working on  
-- 🌍 [AI Trip Planner](https://github.com/TusharGupta-Developer/AI-Powered-Trip-Planner)  
+### 🔭 I’m currently working on
+- 🌍 [AI Trip Planner](https://github.com/TusharGupta-Developer/AI-Powered-Trip-Planner)
+
+---
+
+### 🌱 Upcoming / Planned Projects
+- 🌍 [Mega Blog Frontend Project](https://github.com/TusharGupta-Developer/Mega-Blog-Frontend-Project-with-appwrite) – planning to update its UI and migrate the database from Appwrite to Firebase
+
+---
 
 ### 👯 I’m looking to collaborate on  
 - Open-source projects related to **web development**  
+
+---
 
 ### 📫 How to reach me  
 [![GitHub](https://img.shields.io/badge/GitHub-TusharGupta--Developer-black?logo=github)](https://github.com/TusharGupta-Developer)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-TusharGupta--Developer-blue?style=for-the-badge&logo=react&logoColor=white)](https://tushar-responsive-porftfolio-web-ap.vercel.app/)
 
-### ⚡ Fun fact  
-I’m constantly exploring new **tech trends** and enjoy solving **coding challenges**!  
+---
 
-Thanks for stopping by! 😄
+### ⚡ Fun fact  
+I’m constantly exploring new **tech trends**
+
