@@ -93,7 +93,7 @@ I love contributing to the **open-source community**, continuously **learning ne
 <img src="https://img.shields.io/badge/SEO-Basics-36A97E?style=for-the-badge&logo=google&logoColor=white" alt="SEO Basics" />
 </span>
 
-#### 🔧 Familiar with Backend 
+#### 🔧 Familiar with Backend & Other Technologies
 <span>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />&nbsp;
@@ -128,8 +128,12 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ---
 
-### 👯 I’m looking to collaborate on  
-- Open-source projects related to **web development**  
+### 👯 I’m looking to collaborate on
+- Open-source projects in **web development**  
+- Projects involving **frontend and full-stack development**  
+- Opportunities to **learn, contribute, and grow professionally**  
+
+💼 I’m open to new **job and internship opportunities** in web development, **frontend, or full-stack roles**, where I can apply my skills in **modern web technologies**.
 
 ---
 
@@ -140,5 +144,5 @@ I love contributing to the **open-source community**, continuously **learning ne
 ---
 
 ### ⚡ Fun fact  
-I’m constantly exploring new **tech trends**
+I’m constantly exploring new **tech trends**.😄
 
