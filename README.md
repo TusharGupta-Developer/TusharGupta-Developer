@@ -113,7 +113,7 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ### 📫 How to reach me  
 [![GitHub](https://img.shields.io/badge/GitHub-TusharGupta--Developer-black?logo=github)](https://github.com/TusharGupta-Developer)  
-[![Portfolio](https://tushar-portfolio-webapp.netlify.app](https://tushar-responsive-porftfolio-web-ap.vercel.app/))  
+[![Portfolio](https://img.shields.io/badge/GitHub-TusharGupta--Developer-black?logo=portfolio)](https://tushar-responsive-porftfolio-web-ap.vercel.app/)
 
 ### ⚡ Fun fact  
 I’m constantly exploring new **tech trends** and enjoy solving **coding challenges**!  
