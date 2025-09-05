@@ -118,16 +118,6 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ---
 
-### 🔭 I’m currently working on
-- 🌍 [AI Trip Planner](https://github.com/TusharGupta-Developer/AI-Powered-Trip-Planner)
-
----
-
-### 🌱 Upcoming / Planned Projects
-- 🌍 [Mega Blog Frontend Project](https://github.com/TusharGupta-Developer/Mega-Blog-Frontend-Project-with-appwrite) – planning to update its UI and migrate the database from Appwrite to Firebase
-
----
-
 ### 👯 I’m looking to collaborate on
 - Open-source projects in **web development**  
 - Projects involving **frontend and full-stack development**  
@@ -136,10 +126,19 @@ I love contributing to the **open-source community**, continuously **learning ne
 💼 I’m open to new **job and internship opportunities** in web development, **frontend, or full-stack roles**, where I can apply my skills in **modern web technologies**.
 
 ---
-
 ### 📫 How to reach me  
 [![GitHub](https://img.shields.io/badge/GitHub-TusharGupta--Developer-black?logo=github)](https://github.com/TusharGupta-Developer)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-TusharGupta--Developer-blue?style=for-the-badge&logo=react&logoColor=white)](https://tushar-responsive-porftfolio-web-ap.vercel.app/)
+
+---
+
+### 🔭 I’m currently working on
+- 🌍 [AI Trip Planner](https://github.com/TusharGupta-Developer/AI-Powered-Trip-Planner)
+
+---
+
+### 🌱 Upcoming / Planned Projects
+- 🌍 [Mega Blog Frontend Project](https://github.com/TusharGupta-Developer/Mega-Blog-Frontend-Project-with-appwrite) – planning to update its UI and migrate the database from Appwrite to Firebase
 
 ---
 
