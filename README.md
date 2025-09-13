@@ -135,6 +135,8 @@ I love contributing to the **open-source community**, continuously **learning ne
 💼 I’m open to new **job and internship opportunities** in web development, **frontend, or full-stack roles**, where I can apply my skills in **modern web technologies**.
 
 ---
+## 📫 Connect with Me  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=google-chrome&logoColor=white)](https://tushargupta-developer.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-gupta-5a42232b0/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tushargupta8400@gmail.com)  
@@ -151,6 +153,11 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ---
 
-### ⚡ Fun fact  
-I’m constantly exploring new **tech trends**.😄
+### ⚡ In Short  
+  <p align="center">
+   I’m constantly exploring new <strong>tech trends</strong>.😄 </br>
+  ✨ And continue to focus on: <strong>"Code. Debug. Ship. Repeat." 🚀</strong>
+</p>
+
+
 
