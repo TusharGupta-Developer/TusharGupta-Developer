@@ -12,6 +12,20 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ---
 
+## 🔥 GitHub Stats & Activity
+
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=TusharGupta-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/> -->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharGupta-Developer&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta-Developer&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" height="160"/>
+</p>
+
+---
+
 ### 🏆 Open Source Achievements (Hacktoberfest)  
 
 <p align="center">
@@ -126,9 +140,9 @@ I love contributing to the **open-source community**, continuously **learning ne
 💼 I’m open to new **job and internship opportunities** in web development, **frontend, or full-stack roles**, where I can apply my skills in **modern web technologies**.
 
 ---
-### 📫 How to reach me  
-[![GitHub](https://img.shields.io/badge/GitHub-TusharGupta--Developer-black?logo=github)](https://github.com/TusharGupta-Developer)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-TusharGupta--Developer-blue?style=for-the-badge&logo=react&logoColor=white)](https://tushar-responsive-porftfolio-web-ap.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=google-chrome&logoColor=white)](https://tushargupta-developer.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-gupta-5a42232b0/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tushargupta8400@gmail.com)  
 
 ---
 
