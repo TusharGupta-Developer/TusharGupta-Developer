@@ -139,7 +139,6 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=google-chrome&logoColor=white)](https://tushar-responsive-porftfolio-web-ap.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushargupta-dev/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tushar.developer127@gmail.com)  
 
 ---
 
