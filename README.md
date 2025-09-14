@@ -15,8 +15,15 @@ I love contributing to the **open-source community**, continuously **learning ne
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharGupta-Developer&theme=tokyonight" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta-Developer&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" height="250" width="385"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharGupta-Developer&theme=gruvbox" 
+       alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta-Developer&theme=gruvbox&layout=compact&langs_count=10&hide_border=true" 
+       alt="Top Languages" height="250"/> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusshar&layout=compact&custom_title=WakaTime%20Stats%20(Today)&hide_border=true&theme=gruvbox" 
+       alt="WakaTime Stats" height="250"/>
 </p>
 
 ---
