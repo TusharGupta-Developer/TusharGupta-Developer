@@ -15,8 +15,8 @@ I love contributing to the **open-source community**, continuously **learning ne
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharGupta-Developer&theme=gruvbox" 
-       alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=TusharGupta-Developer&theme=gruvbox&v=1" 
+       alt="GitHub Streak" height="250"/>
 </p>
 
 <p align="center">
