@@ -23,7 +23,7 @@ I love contributing to the **open-source community**, continuously **learning ne
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta-Developer&theme=gruvbox&layout=compact&langs_count=10&hide_border=true" 
        alt="Top Languages" height="250"/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusshar&layout=compact&custom_title=WakaTime%20Stats%20(Today)&hide_border=true&theme=gruvbox" 
-       alt="WakaTime Stats" height="250"/>
+       alt="WakaTime Stats" height="500"/>
 </p>
 
 ---
