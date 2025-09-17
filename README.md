@@ -14,18 +14,23 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 ## 🔥 GitHub Stats & Activity
 
+<!-- 📊 GitHub Stats + Languages -->
+<!-- 🔥 Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TusharGupta-Developer&theme=gruvbox&v=2"
-       alt="GitHub Streak" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharGupta-Developer&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharGupta-Developer&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta-Developer&theme=gruvbox&layout=compact&langs_count=10&hide_border=true" alt="More Top Languages" height="200"/> 
 </p>
 
 
+<!-- ⏳ WakaTime -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGupta-Developer&theme=gruvbox&layout=compact&langs_count=10&hide_border=true" 
-       alt="Top Languages" height="250"/> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusshar&layout=compact&custom_title=WakaTime%20Stats%20(Today)&hide_border=true&theme=gruvbox" 
-       alt="WakaTime Stats" height="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusshar&layout=compact&custom_title=WakaTime%20Stats%20(Today)&hide_border=true&theme=gruvbox" alt="WakaTime Stats" height="200"/>
 </p>
+
 
 ---
 
