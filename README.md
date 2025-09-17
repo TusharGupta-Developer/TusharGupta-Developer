@@ -17,8 +17,8 @@ I love contributing to the **open-source community**, continuously **learning ne
 <!-- 📊 GitHub Stats + Languages -->
 <!-- 🔥 Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharGupta-Developer&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharGupta-Developer&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharGupta-Developer&theme=dark&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharGupta-Developer&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" height="150"/>
 </p>
 
 <p align="center">
@@ -38,19 +38,19 @@ I love contributing to the **open-source community**, continuously **learning ne
 
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1rztplt108520cm6mobl4m7v" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="180" />
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="150" />
   </a>
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2dkuufw23000cl8mwa515gp" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="180" />
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="150" />
   </a>
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2eow80794080cl2bexupev6" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="180" />
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="150" />
   </a>
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2jwhh8z23800cmfit05fr4g" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="180" />
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="150" />
   </a>
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm31nxp7o50580clgb2ycbyax" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="180" />
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="150" />
   </a>
 </p>
 
